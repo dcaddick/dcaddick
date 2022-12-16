@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 👯 I’m looking to collaborate on helping Customers and Partners uplift Security via the Microsoft Defender Suite
 <!--
 **dcaddick/dcaddick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
